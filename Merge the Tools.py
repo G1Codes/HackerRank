@@ -27,7 +27,6 @@ AD
 '''
 
 def merge_the_tools(string, k):
-    k=3
     l=len(string)
     
     for i in range (0,l,k):
